@@ -298,3 +298,70 @@
     color: var(--muted);
     font-size: 13.5px;
   }
+
+  /* ---- MOBILE ---- */
+  @media (max-width: 640px) {
+    body {
+      padding: 16px 8px 40px;
+    }
+
+    header h1 {
+      font-size: 21px;
+      text-align: center;
+    }
+    header p {
+      text-align: center;
+    }
+
+    .controls {
+      justify-content: center;
+    }
+
+    .tabs {
+      width: 100%;
+      justify-content: center;
+    }
+    .tab {
+      flex: 1 1 auto;
+      padding: 8px 6px;
+      font-size: 12px;
+      text-align: center;
+    }
+
+    .search {
+      margin-left: 0;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .count {
+      text-align: center;
+    }
+
+    /* la tabella diventa scrollabile orizzontalmente dentro un contenitore
+       centrato, senza far traboccare la pagina */
+    .panel {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .panel.active { display: block; }
+
+    table {
+      width: max-content;
+      min-width: 100%;
+      margin: 0 auto;
+    }
+
+    thead th,
+    tbody td {
+      padding: 8px 8px;
+      font-size: 12.5px;
+    }
+
+    .team-badge {
+      width: 26px;
+      height: 26px;
+      font-size: 9px;
+    }
+  }
