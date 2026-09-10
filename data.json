@@ -1,0 +1,4758 @@
+{
+  "portieri": [
+    {
+      "nome": "Carnesecchi",
+      "squadra": "Atalanta",
+      "quot": 16,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Butez",
+      "squadra": "Como",
+      "quot": 16,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Martinez J.",
+      "squadra": "Inter",
+      "quot": 17,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vicario",
+      "squadra": "Juve",
+      "quot": 16,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Maignan",
+      "squadra": "Milan",
+      "quot": 15,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Svilar",
+      "squadra": "Roma",
+      "quot": 18,
+      "voto": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Skorupski",
+      "squadra": "Bologna",
+      "quot": 10,
+      "voto": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Gea",
+      "squadra": "Fiorentina",
+      "quot": 11,
+      "voto": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Meret",
+      "squadra": "Napoli",
+      "quot": 11,
+      "voto": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Fastidio coscia sinistra",
+        "dataInizio": "2026-09-10",
+        "giorniStimati": 7
+      }
+    },
+    {
+      "nome": "Daffara",
+      "squadra": "Parma",
+      "quot": 7,
+      "voto": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mascardi",
+      "squadra": "Torino",
+      "quot": 1,
+      "voto": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Okoye",
+      "squadra": "Udinese",
+      "quot": 9,
+      "voto": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Caprile",
+      "squadra": "Cagliari",
+      "quot": 10,
+      "voto": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bijlow",
+      "squadra": "Genoa",
+      "quot": 8,
+      "voto": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mandas",
+      "squadra": "Lazio",
+      "quot": 10,
+      "voto": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Falcone",
+      "squadra": "Lecce",
+      "quot": 9,
+      "voto": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Stankovic",
+      "squadra": "Venezia",
+      "quot": 6,
+      "voto": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Palmisani",
+      "squadra": "Frosinone",
+      "quot": 5,
+      "voto": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tornqvist",
+      "squadra": "Monza",
+      "quot": 1,
+      "voto": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Muric",
+      "squadra": "Sassuolo",
+      "quot": 7,
+      "voto": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sportiello",
+      "squadra": "Atalanta",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Happonen",
+      "squadra": "Bologna",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sherri",
+      "squadra": "Cagliari",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sanchez R.",
+      "squadra": "Como",
+      "quot": 8,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Christensen O.",
+      "squadra": "Fiorentina",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Desplanches",
+      "squadra": "Frosinone",
+      "quot": 2,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sommariva",
+      "squadra": "Genoa",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Provedel",
+      "squadra": "Inter",
+      "quot": 2,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Grabara",
+      "squadra": "Juve",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Motta",
+      "squadra": "Lazio",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Penev",
+      "squadra": "Lecce",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Terracciano",
+      "squadra": "Milan",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Thiam",
+      "squadra": "Monza",
+      "quot": 5,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Milinkovic-Savic",
+      "squadra": "Napoli",
+      "quot": 5,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Corvi",
+      "squadra": "Parma",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gollini",
+      "squadra": "Roma",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Turati",
+      "squadra": "Sassuolo",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Perri",
+      "squadra": "Torino",
+      "quot": 9,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Padelli",
+      "squadra": "Udinese",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Montipò",
+      "squadra": "Venezia",
+      "quot": 1,
+      "voto": "2 Port.",
+      "commento": "",
+      "infortunio": null
+    }
+  ],
+  "difensori": [
+    {
+      "nome": "Bernasconi",
+      "squadra": "Atalanta",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zappacosta",
+      "squadra": "Atalanta",
+      "ruolo": "ED",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Scalvini",
+      "squadra": "Atalanta",
+      "ruolo": "DC",
+      "quot": 10,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kristensen",
+      "squadra": "Atalanta",
+      "ruolo": "TD",
+      "quot": 7,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hien",
+      "squadra": "Atalanta",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione tendine prossimale della coscia sinistra",
+        "dataInizio": "2026-07-01",
+        "giorniStimati": 90
+      }
+    },
+    {
+      "nome": "Bellanova",
+      "squadra": "Atalanta",
+      "ruolo": "TD",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kossounou",
+      "squadra": "Atalanta",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kolasinac",
+      "squadra": "Atalanta",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Alhassane",
+      "squadra": "Bologna",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Casale",
+      "squadra": "Bologna",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Silvestri",
+      "squadra": "Bologna",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Heggem",
+      "squadra": "Bologna",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Helland",
+      "squadra": "Bologna",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Holm",
+      "squadra": "Bologna",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Miranda",
+      "squadra": "Bologna",
+      "ruolo": "TS",
+      "quot": 8,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Theate",
+      "squadra": "Bologna",
+      "ruolo": "TS",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vitik",
+      "squadra": "Bologna",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zortea",
+      "squadra": "Bologna",
+      "ruolo": "TD",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Aurelio",
+      "squadra": "Cagliari",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Idrissi",
+      "squadra": "Cagliari",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura crociato",
+        "dataInizio": "2026-03-07",
+        "giorniStimati": 240
+      }
+    },
+    {
+      "nome": "Ju. Rodriguez",
+      "squadra": "Cagliari",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kofler",
+      "squadra": "Cagliari",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mina",
+      "squadra": "Cagliari",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Obert",
+      "squadra": "Cagliari",
+      "ruolo": "TS",
+      "quot": 7,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ze Pedro",
+      "squadra": "Cagliari",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sugawara",
+      "squadra": "Cagliari",
+      "ruolo": "TD",
+      "quot": 6,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Chalobah T.",
+      "squadra": "Como",
+      "ruolo": "DC",
+      "quot": 9,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Couto",
+      "squadra": "Como",
+      "ruolo": "TD",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Goldaniga",
+      "squadra": "Como",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kaiki",
+      "squadra": "Como",
+      "ruolo": "TS",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kambwala",
+      "squadra": "Como",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kempf",
+      "squadra": "Como",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ramon",
+      "squadra": "Como",
+      "ruolo": "DC",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Smolcic",
+      "squadra": "Como",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Valle",
+      "squadra": "Como",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dodo",
+      "squadra": "Fiorentina",
+      "ruolo": "TD",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dragusin",
+      "squadra": "Fiorentina",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Jimenez A.",
+      "squadra": "Fiorentina",
+      "ruolo": "ED",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Joao Mario",
+      "squadra": "Fiorentina",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Parisi",
+      "squadra": "Fiorentina",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura crociato",
+        "dataInizio": "2026-05-15",
+        "giorniStimati": 180
+      }
+    },
+    {
+      "nome": "Pongracic",
+      "squadra": "Fiorentina",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ranieri L.",
+      "squadra": "Fiorentina",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Valdepenas",
+      "squadra": "Fiorentina",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Viery",
+      "squadra": "Fiorentina",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Akpoguma",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Amey",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bracaglia",
+      "squadra": "Frosinone",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Calvani",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cittadini",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Monterisi",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Omar Fayed",
+      "squadra": "Frosinone",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Oyono A.",
+      "squadra": "Frosinone",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tchato",
+      "squadra": "Frosinone",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Terzic",
+      "squadra": "Frosinone",
+      "ruolo": "TS",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Marcandalli",
+      "squadra": "Genoa",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Drameh",
+      "squadra": "Genoa",
+      "ruolo": "E",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mitaj",
+      "squadra": "Genoa",
+      "ruolo": "TS",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ostigard",
+      "squadra": "Genoa",
+      "ruolo": "DC",
+      "quot": 11,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Otoa",
+      "squadra": "Genoa",
+      "ruolo": "DC",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Puczka",
+      "squadra": "Genoa",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sabelli",
+      "squadra": "Genoa",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vasquez",
+      "squadra": "Genoa",
+      "ruolo": "DC",
+      "quot": 9,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ehizibue",
+      "squadra": "Genoa",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Akanji",
+      "squadra": "Inter",
+      "ruolo": "DC",
+      "quot": 16,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bastoni",
+      "squadra": "Inter",
+      "ruolo": "DC",
+      "quot": 14,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bisseck",
+      "squadra": "Inter",
+      "ruolo": "DC",
+      "quot": 11,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Carlos Augusto",
+      "squadra": "Inter",
+      "ruolo": "TS",
+      "quot": 7,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dimarco",
+      "squadra": "Inter",
+      "ruolo": "ES",
+      "quot": 32,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pavard",
+      "squadra": "Inter",
+      "ruolo": "TD",
+      "quot": 6,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Spence",
+      "squadra": "Inter",
+      "ruolo": "ED",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Stones",
+      "squadra": "Inter",
+      "ruolo": "DC",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bremer",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 15,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cabal",
+      "squadra": "Juve",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione di basso grado del muscolo semimembranoso della coscia sinistra",
+        "dataInizio": "2026-09-04",
+        "giorniStimati": 14
+      }
+    },
+    {
+      "nome": "Cambiaso",
+      "squadra": "Juve",
+      "ruolo": "TD",
+      "quot": 9,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Celik",
+      "squadra": "Juve",
+      "ruolo": "TD",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gatti",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kalulu",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 13,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kelly",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lucumì",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rugani",
+      "squadra": "Juve",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Doekhi",
+      "squadra": "Lazio",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Floriani Mussolini",
+      "squadra": "Lazio",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lazzari",
+      "squadra": "Lazio",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Marusic",
+      "squadra": "Lazio",
+      "ruolo": "TD",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione muscolare alla coscia",
+        "dataInizio": "2026-08-24",
+        "giorniStimati": 45
+      }
+    },
+    {
+      "nome": "Patric",
+      "squadra": "Lazio",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pedraza",
+      "squadra": "Lazio",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pellegrini L.",
+      "squadra": "Lazio",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Provstgaard",
+      "squadra": "Lazio",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sutalo J.",
+      "squadra": "Lazio",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tavares N.",
+      "squadra": "Lazio",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Leite",
+      "squadra": "Lazio",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dembelè A.",
+      "squadra": "Lecce",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gallo",
+      "squadra": "Lecce",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gaspar",
+      "squadra": "Lecce",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Jean",
+      "squadra": "Lecce",
+      "ruolo": "DC",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ndaba",
+      "squadra": "Lecce",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Siebert",
+      "squadra": "Lecce",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tiago Gabriel",
+      "squadra": "Lecce",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Veiga D.",
+      "squadra": "Lecce",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bartesaghi",
+      "squadra": "Milan",
+      "ruolo": "ES",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Winter",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Diawara S.",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Estupinan",
+      "squadra": "Milan",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gabbia",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Fastidio alla caviglia",
+        "dataInizio": "2026-09-05",
+        "giorniStimati": 10
+      }
+    },
+    {
+      "nome": "Gila",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pavlovic",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 14,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Terracciano F.",
+      "squadra": "Milan",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tomori",
+      "squadra": "Milan",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ziolkowski",
+      "squadra": "Monza",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Fascite plantare",
+        "dataInizio": "2026-09-05",
+        "giorniStimati": 10
+      }
+    },
+    {
+      "nome": "Antov",
+      "squadra": "Monza",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bakoune",
+      "squadra": "Monza",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Birindelli",
+      "squadra": "Monza",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Carboni A.",
+      "squadra": "Monza",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Goglichidze",
+      "squadra": "Monza",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kouadio",
+      "squadra": "Monza",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lucchesi",
+      "squadra": "Monza",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mangas",
+      "squadra": "Monza",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Maye",
+      "squadra": "Monza",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Badiashile",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Beukema",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Buongiorno",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione menisco ginocchio destro",
+        "dataInizio": "2026-07-20",
+        "giorniStimati": 120
+      }
+    },
+    {
+      "nome": "Di Lorenzo",
+      "squadra": "Napoli",
+      "ruolo": "TD",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Favasuli",
+      "squadra": "Napoli",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Marianucci",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione di alto grado del collaterale mediale del ginocchio sinistro",
+        "dataInizio": "2026-08-08",
+        "giorniStimati": 70
+      }
+    },
+    {
+      "nome": "Marin R.",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Olivera",
+      "squadra": "Napoli",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rrahmani",
+      "squadra": "Napoli",
+      "ruolo": "DC",
+      "quot": 14,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Spinazzola",
+      "squadra": "Napoli",
+      "ruolo": "TS",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Diego Carlos",
+      "squadra": "Parma",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Britschgi",
+      "squadra": "Parma",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Carboni F.",
+      "squadra": "Parma",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Delprato",
+      "squadra": "Parma",
+      "ruolo": "TD",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Drobnic",
+      "squadra": "Parma",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ndiaye",
+      "squadra": "Parma",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Troilo",
+      "squadra": "Parma",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Valenti",
+      "squadra": "Parma",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Valeri",
+      "squadra": "Parma",
+      "ruolo": "TS",
+      "quot": 8,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Balerdi",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ghilardi",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hermoso",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 10,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Koulierakis",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lulli",
+      "squadra": "Roma",
+      "ruolo": "E",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mancini",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 15,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Molina N.",
+      "squadra": "Roma",
+      "ruolo": "E",
+      "quot": 18,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "N'dicka",
+      "squadra": "Roma",
+      "ruolo": "DC",
+      "quot": 13,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rensch",
+      "squadra": "Roma",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Wesley",
+      "squadra": "Roma",
+      "ruolo": "E",
+      "quot": 17,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Candè",
+      "squadra": "Sassuolo",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura legamento crociato anteriore del ginocchio destro",
+        "dataInizio": "2026-01-20",
+        "giorniStimati": 250
+      }
+    },
+    {
+      "nome": "Cinquegrano",
+      "squadra": "Sassuolo",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Doig",
+      "squadra": "Sassuolo",
+      "ruolo": "TS",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Idzes",
+      "squadra": "Sassuolo",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Leysen F.",
+      "squadra": "Sassuolo",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Caleta-Car",
+      "squadra": "Sassuolo",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Obrador",
+      "squadra": "Sassuolo",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Odenthal",
+      "squadra": "Sassuolo",
+      "ruolo": "DC",
+      "quot": 1,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pieragnolo",
+      "squadra": "Sassuolo",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione legamento crociato anteriore",
+        "dataInizio": "2025-10-15",
+        "giorniStimati": 365
+      }
+    },
+    {
+      "nome": "Van Der Brempt",
+      "squadra": "Sassuolo",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Walukiewicz",
+      "squadra": "Sassuolo",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Trauma contusivo alla gamba destra",
+        "dataInizio": "2026-08-15",
+        "giorniStimati": 40
+      }
+    },
+    {
+      "nome": "Biraghi",
+      "squadra": "Torino",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Coco",
+      "squadra": "Torino",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Comert",
+      "squadra": "Torino",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Comuzzo",
+      "squadra": "Torino",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fortini",
+      "squadra": "Torino",
+      "ruolo": "E",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ismajli",
+      "squadra": "Torino",
+      "ruolo": "DC",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Belghali",
+      "squadra": "Torino",
+      "ruolo": "TD",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Patterson",
+      "squadra": "Torino",
+      "ruolo": "TD",
+      "quot": 5,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rodriguez R.",
+      "squadra": "Torino",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Abankwah",
+      "squadra": "Udinese",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Arizala",
+      "squadra": "Udinese",
+      "ruolo": "TS",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione muscolare al bicipite femorale",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Bertola",
+      "squadra": "Udinese",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ebosse",
+      "squadra": "Udinese",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kabasele",
+      "squadra": "Udinese",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kamara H.",
+      "squadra": "Udinese",
+      "ruolo": "TS",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Palma",
+      "squadra": "Udinese",
+      "ruolo": "DC",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lieve problema muscolare all'adduttore della coscia destra",
+        "dataInizio": "2026-08-22",
+        "giorniStimati": 25
+      }
+    },
+    {
+      "nome": "Solet",
+      "squadra": "Udinese",
+      "ruolo": "DC",
+      "quot": 13,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema muscolare (da valutare)",
+        "dataInizio": "2026-09-07",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Vojvoda",
+      "squadra": "Udinese",
+      "ruolo": "TD",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zanoli",
+      "squadra": "Udinese",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 5,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione del legamento crociato anteriore del ginocchio destro",
+        "dataInizio": "2026-01-30",
+        "giorniStimati": 250
+      }
+    },
+    {
+      "nome": "Juan Jesus",
+      "squadra": "Venezia",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bella-Kotchap",
+      "squadra": "Venezia",
+      "ruolo": "DC",
+      "quot": 6,
+      "slot": 5,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Risentimento muscolare mio-fasciale all'adduttore",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Correia T.",
+      "squadra": "Venezia",
+      "ruolo": "TD",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Franjic",
+      "squadra": "Venezia",
+      "ruolo": "TS",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Guaio alla spalla",
+        "dataInizio": "2026-08-29",
+        "giorniStimati": 110
+      }
+    },
+    {
+      "nome": "Gomes",
+      "squadra": "Venezia",
+      "ruolo": "TS",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hainaut",
+      "squadra": "Venezia",
+      "ruolo": "TD",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Halhal",
+      "squadra": "Venezia",
+      "ruolo": "DC",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Haps",
+      "squadra": "Venezia",
+      "ruolo": "TS",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mazzocchi",
+      "squadra": "Venezia",
+      "ruolo": "TD",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Moreno M.",
+      "squadra": "Venezia",
+      "ruolo": "DC",
+      "quot": 5,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sagrado",
+      "squadra": "Venezia",
+      "ruolo": "TD",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Schingtienne",
+      "squadra": "Venezia",
+      "ruolo": "DC",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sverko",
+      "squadra": "Venezia",
+      "ruolo": "TS",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema all'anca",
+        "dataInizio": "2026-07-01",
+        "giorniStimati": 110
+      }
+    }
+  ],
+  "centrocampisti": [
+    {
+      "nome": "Ederson",
+      "squadra": "Atalanta",
+      "ruolo": "Med",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gaetano",
+      "squadra": "Atalanta",
+      "ruolo": "CC",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Elmas",
+      "squadra": "Atalanta",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Samardzic",
+      "squadra": "Atalanta",
+      "ruolo": "TRQ",
+      "quot": 12,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zalewski",
+      "squadra": "Atalanta",
+      "ruolo": "W",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pasalic",
+      "squadra": "Atalanta",
+      "ruolo": "TRQ",
+      "quot": 9,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kessie",
+      "squadra": "Atalanta",
+      "ruolo": "CC",
+      "quot": 12,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rowe",
+      "squadra": "Atalanta",
+      "ruolo": "W",
+      "quot": 11,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Orsolini",
+      "squadra": "Bologna",
+      "ruolo": "TRQ",
+      "quot": 25,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Risentimento al flessore coscia sinistra",
+        "dataInizio": "2026-08-31",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Mbangula",
+      "squadra": "Bologna",
+      "ruolo": "W",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cambiaghi",
+      "squadra": "Bologna",
+      "ruolo": "W",
+      "quot": 8,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bernardeschi",
+      "squadra": "Bologna",
+      "ruolo": "W",
+      "quot": 9,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ferguson",
+      "squadra": "Bologna",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Amondarain",
+      "squadra": "Bologna",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "El Azzouzi",
+      "squadra": "Bologna",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione bicipite femorale coscia sinistra",
+        "dataInizio": "2026-09-01",
+        "giorniStimati": 15
+      }
+    },
+    {
+      "nome": "Odgaard",
+      "squadra": "Bologna",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pobega",
+      "squadra": "Bologna",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Moro",
+      "squadra": "Bologna",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fazzini",
+      "squadra": "Cagliari",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Winks",
+      "squadra": "Cagliari",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Romano",
+      "squadra": "Cagliari",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Adopo",
+      "squadra": "Cagliari",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Felici",
+      "squadra": "Cagliari",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 8,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura crociato anteriore",
+        "dataInizio": "2026-09-07",
+        "giorniStimati": 180
+      }
+    },
+    {
+      "nome": "Deiola",
+      "squadra": "Cagliari",
+      "ruolo": "CC",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Liteta",
+      "squadra": "Cagliari",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fadera",
+      "squadra": "Cagliari",
+      "ruolo": "W",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ciervo",
+      "squadra": "Cagliari",
+      "ruolo": "W",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Massolin",
+      "squadra": "Cagliari",
+      "ruolo": "TRQ",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gagliardini",
+      "squadra": "Cagliari",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Paz",
+      "squadra": "Como",
+      "ruolo": "TRQ",
+      "quot": 30,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Da Cunha",
+      "squadra": "Como",
+      "ruolo": "CC",
+      "quot": 18,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Baturina",
+      "squadra": "Como",
+      "ruolo": "TRQ",
+      "quot": 19,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "J. Rodriguez",
+      "squadra": "Como",
+      "ruolo": "W",
+      "quot": 12,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Perrone",
+      "squadra": "Como",
+      "ruolo": "Med",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Caqueret",
+      "squadra": "Como",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Liberali",
+      "squadra": "Como",
+      "ruolo": "TRQ",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Milla",
+      "squadra": "Como",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Addai",
+      "squadra": "Como",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 7,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura tendine d'achille",
+        "dataInizio": "2026-02-26",
+        "giorniStimati": 230
+      }
+    },
+    {
+      "nome": "Lahdo",
+      "squadra": "Como",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ricci S.",
+      "squadra": "Como",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Atta",
+      "squadra": "Fiorentina",
+      "ruolo": "TRQ",
+      "quot": 17,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mastantuono",
+      "squadra": "Fiorentina",
+      "ruolo": "W",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fagioli",
+      "squadra": "Fiorentina",
+      "ruolo": "Med",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ndour",
+      "squadra": "Fiorentina",
+      "ruolo": "CC",
+      "quot": 8,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Oulai",
+      "squadra": "Fiorentina",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Brescianini",
+      "squadra": "Fiorentina",
+      "ruolo": "CC",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Njie",
+      "squadra": "Fiorentina",
+      "ruolo": "W",
+      "quot": 4,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Goncalves P.",
+      "squadra": "Fiorentina",
+      "ruolo": "TRQ",
+      "quot": 12,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Schmid",
+      "squadra": "Frosinone",
+      "ruolo": "TRQ",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Calò",
+      "squadra": "Frosinone",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zerbin",
+      "squadra": "Frosinone",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Grillitsch",
+      "squadra": "Frosinone",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cichella",
+      "squadra": "Frosinone",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gelli F.",
+      "squadra": "Frosinone",
+      "ruolo": "TRQ",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fini",
+      "squadra": "Frosinone",
+      "ruolo": "W",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hasa",
+      "squadra": "Frosinone",
+      "ruolo": "TRQ",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Masini",
+      "squadra": "Frosinone",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "El Azzouzi A.",
+      "squadra": "Frosinone",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kone B.",
+      "squadra": "Frosinone",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Baldanzi",
+      "squadra": "Genoa",
+      "ruolo": "TRQ",
+      "quot": 11,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Frendrup",
+      "squadra": "Genoa",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sow",
+      "squadra": "Genoa",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ellertsson",
+      "squadra": "Genoa",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Meichtry",
+      "squadra": "Genoa",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Messias",
+      "squadra": "Genoa",
+      "ruolo": "TRQ",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Venturino",
+      "squadra": "Genoa",
+      "ruolo": "W",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura tendine rotuleo",
+        "dataInizio": "2026-05-25",
+        "giorniStimati": 150
+      }
+    },
+    {
+      "nome": "Traorè Hj.",
+      "squadra": "Genoa",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Amorim",
+      "squadra": "Genoa",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "El Shaarawy",
+      "squadra": "Genoa",
+      "ruolo": "W",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Calhanoglu",
+      "squadra": "Inter",
+      "ruolo": "Med",
+      "quot": 27,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Barella",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 17,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zielinski",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 10,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Diouf",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sucic P.",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mkhitaryan",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Luis Henrique",
+      "squadra": "Inter",
+      "ruolo": "W",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Stankovic A.",
+      "squadra": "Inter",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "C.Jones",
+      "squadra": "Inter",
+      "ruolo": "CC",
+      "quot": 12,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mckennie",
+      "squadra": "Juve",
+      "ruolo": "CC",
+      "quot": 17,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Alajbegovic",
+      "squadra": "Juve",
+      "ruolo": "TRQ",
+      "quot": 12,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Conceicao",
+      "squadra": "Juve",
+      "ruolo": "W",
+      "quot": 12,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Thuram K.",
+      "squadra": "Juve",
+      "ruolo": "CC",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Sindrome femoro-rotuleo",
+        "dataInizio": "2026-09-03",
+        "giorniStimati": 120
+      }
+    },
+    {
+      "nome": "Locatelli",
+      "squadra": "Juve",
+      "ruolo": "Med",
+      "quot": 8,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura menisco esterno ginocchio",
+        "dataInizio": "2026-09-01",
+        "giorniStimati": 120
+      }
+    },
+    {
+      "nome": "Gonzalez N.",
+      "squadra": "Juve",
+      "ruolo": "W",
+      "quot": 11,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zhegrova",
+      "squadra": "Juve",
+      "ruolo": "W",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Koop",
+      "squadra": "Juve",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Douglas Luiz",
+      "squadra": "Juve",
+      "ruolo": "CC",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sarr P.",
+      "squadra": "Juve",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gudmundsson",
+      "squadra": "Lazio",
+      "ruolo": "TRQ",
+      "quot": 13,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zaccagni",
+      "squadra": "Lazio",
+      "ruolo": "W",
+      "quot": 16,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Taylor K.",
+      "squadra": "Lazio",
+      "ruolo": "TRQ",
+      "quot": 13,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Isaksen",
+      "squadra": "Lazio",
+      "ruolo": "W",
+      "quot": 9,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cancellieri",
+      "squadra": "Lazio",
+      "ruolo": "W",
+      "quot": 9,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Frattesi",
+      "squadra": "Lazio",
+      "ruolo": "CC",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rovella",
+      "squadra": "Lazio",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione muscolare al polpaccio",
+        "dataInizio": "2026-08-30",
+        "giorniStimati": 40
+      }
+    },
+    {
+      "nome": "Dele-Bashiru",
+      "squadra": "Lazio",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Guaio muscolare alla gamba",
+        "dataInizio": "2026-08-24",
+        "giorniStimati": 21
+      }
+    },
+    {
+      "nome": "Cataldi",
+      "squadra": "Lazio",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Ernia bilaterale",
+        "dataInizio": "2026-08-01",
+        "giorniStimati": 45
+      }
+    },
+    {
+      "nome": "Belahyane",
+      "squadra": "Lazio",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Przyborek",
+      "squadra": "Lazio",
+      "ruolo": "W",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pierotti",
+      "squadra": "Lecce",
+      "ruolo": "W",
+      "quot": 6,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Coulibaly L.",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Berisha M.",
+      "squadra": "Lecce",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gandelman",
+      "squadra": "Lecce",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ngom",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Maleh",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gorter",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kaba",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fofana Sa.",
+      "squadra": "Lecce",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Laerke",
+      "squadra": "Lecce",
+      "ruolo": "W",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ilic",
+      "squadra": "Lecce",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Monteiro J.",
+      "squadra": "Lecce",
+      "ruolo": "W",
+      "quot": 7,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pulisic",
+      "squadra": "Milan",
+      "ruolo": "TRQ",
+      "quot": 25,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rabiot",
+      "squadra": "Milan",
+      "ruolo": "TRQ",
+      "quot": 22,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Modric",
+      "squadra": "Milan",
+      "ruolo": "Med",
+      "quot": 12,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Saelemaekers",
+      "squadra": "Milan",
+      "ruolo": "W",
+      "quot": 10,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Chukwueze",
+      "squadra": "Milan",
+      "ruolo": "W",
+      "quot": 6,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cisse A.",
+      "squadra": "Milan",
+      "ruolo": "TRQ",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Jashari",
+      "squadra": "Milan",
+      "ruolo": "CC",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hutchinson",
+      "squadra": "Milan",
+      "ruolo": "W",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Loftus-Cheek",
+      "squadra": "Milan",
+      "ruolo": "TRQ",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Musah",
+      "squadra": "Milan",
+      "ruolo": "CC",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Comotto",
+      "squadra": "Milan",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Moreira",
+      "squadra": "Milan",
+      "ruolo": "W",
+      "quot": 12,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Colpani",
+      "squadra": "Monza",
+      "ruolo": "TRQ",
+      "quot": 8,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pessina",
+      "squadra": "Monza",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lussazione della rotula del ginocchio",
+        "dataInizio": "2026-08-13",
+        "giorniStimati": 90
+      }
+    },
+    {
+      "nome": "Akinsanmiro",
+      "squadra": "Monza",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Colombo L.",
+      "squadra": "Monza",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ciurria",
+      "squadra": "Monza",
+      "ruolo": "W",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "noie fisiche",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 7
+      }
+    },
+    {
+      "nome": "Forson O.",
+      "squadra": "Monza",
+      "ruolo": "W",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tourè I.",
+      "squadra": "Monza",
+      "ruolo": "E",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Folorunsho",
+      "squadra": "Monza",
+      "ruolo": "TRQ",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Foe Ondoa",
+      "squadra": "Monza",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mout",
+      "squadra": "Monza",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mctominay",
+      "squadra": "Napoli",
+      "ruolo": "TRQ",
+      "quot": 28,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lieve aritmia cardiaca",
+        "dataInizio": "2026-09-03",
+        "giorniStimati": 45
+      }
+    },
+    {
+      "nome": "De Bruyne",
+      "squadra": "Napoli",
+      "ruolo": "TRQ",
+      "quot": 15,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Anguissa",
+      "squadra": "Napoli",
+      "ruolo": "CC",
+      "quot": 11,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Politano",
+      "squadra": "Napoli",
+      "ruolo": "W",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vergara",
+      "squadra": "Napoli",
+      "ruolo": "W",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lobotka",
+      "squadra": "Napoli",
+      "ruolo": "Med",
+      "quot": 7,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gilmour",
+      "squadra": "Napoli",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fabbian",
+      "squadra": "Parma",
+      "ruolo": "CC",
+      "quot": 4,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bernabè",
+      "squadra": "Parma",
+      "ruolo": "CC",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema fisico",
+        "dataInizio": "2026-09-05",
+        "giorniStimati": 10
+      }
+    },
+    {
+      "nome": "Nicolussi Caviglia",
+      "squadra": "Parma",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione di medio grado alla coscia destra",
+        "dataInizio": "2026-07-20",
+        "giorniStimati": 110
+      }
+    },
+    {
+      "nome": "Almqvist",
+      "squadra": "Parma",
+      "ruolo": "W",
+      "quot": 4,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Keita M.",
+      "squadra": "Parma",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Diallo O.",
+      "squadra": "Parma",
+      "ruolo": "W",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "noie fisiche",
+        "dataInizio": "2026-09-01",
+        "giorniStimati": 20
+      }
+    },
+    {
+      "nome": "Ordonez C.",
+      "squadra": "Parma",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cremaschi",
+      "squadra": "Parma",
+      "ruolo": "E",
+      "quot": 1,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sierro",
+      "squadra": "Parma",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mora",
+      "squadra": "Roma",
+      "ruolo": "TRQ",
+      "quot": 19,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kone M.",
+      "squadra": "Roma",
+      "ruolo": "Med",
+      "quot": 10,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema muscolare (da valutare)",
+        "dataInizio": "2026-09-10",
+        "giorniStimati": 7
+      }
+    },
+    {
+      "nome": "Pellegrini Lo.",
+      "squadra": "Roma",
+      "ruolo": "TRQ",
+      "quot": 10,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pisilli",
+      "squadra": "Roma",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cristante",
+      "squadra": "Roma",
+      "ruolo": "Med",
+      "quot": 8,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Roon",
+      "squadra": "Roma",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kone I.",
+      "squadra": "Sassuolo",
+      "ruolo": "CC",
+      "quot": 9,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Rottura tibia e perone",
+        "dataInizio": "2026-06-15",
+        "giorniStimati": 180
+      }
+    },
+    {
+      "nome": "Thorstvedt",
+      "squadra": "Sassuolo",
+      "ruolo": "CC",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Volpato",
+      "squadra": "Sassuolo",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione di grado moderato al flessore",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 31
+      }
+    },
+    {
+      "nome": "Matic",
+      "squadra": "Sassuolo",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Adzic",
+      "squadra": "Sassuolo",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bakola",
+      "squadra": "Sassuolo",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "noie fisiche (da valutare)",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 8
+      }
+    },
+    {
+      "nome": "Dominguez B.",
+      "squadra": "Sassuolo",
+      "ruolo": "W",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Boloca",
+      "squadra": "Sassuolo",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema al ginocchio (da valutare)",
+        "dataInizio": "2026-08-15",
+        "giorniStimati": 40
+      }
+    },
+    {
+      "nome": "Lipani",
+      "squadra": "Sassuolo",
+      "ruolo": "Med",
+      "quot": 2,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sulemana I.",
+      "squadra": "Sassuolo",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mandragora",
+      "squadra": "Torino",
+      "ruolo": "CC",
+      "quot": 9,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vlasic",
+      "squadra": "Torino",
+      "ruolo": "TRQ",
+      "quot": 14,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Casadei",
+      "squadra": "Torino",
+      "ruolo": "CC",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Affaticamento muscolare (Da valutare)",
+        "dataInizio": "2026-08-30",
+        "giorniStimati": 15
+      }
+    },
+    {
+      "nome": "Oristanio",
+      "squadra": "Torino",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Cacciamani",
+      "squadra": "Torino",
+      "ruolo": "W",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fitz-Jim",
+      "squadra": "Torino",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gineitis",
+      "squadra": "Torino",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ilkhan",
+      "squadra": "Torino",
+      "ruolo": "Med",
+      "quot": 4,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Aboukhlal",
+      "squadra": "Torino",
+      "ruolo": "W",
+      "quot": 3,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Braganca",
+      "squadra": "Torino",
+      "ruolo": "CC",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zaniolo",
+      "squadra": "Udinese",
+      "ruolo": "TRQ",
+      "quot": 18,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione muscolare al bicipite femorale",
+        "dataInizio": "2026-08-22",
+        "giorniStimati": 25
+      }
+    },
+    {
+      "nome": "Ekkelenkamp",
+      "squadra": "Udinese",
+      "ruolo": "TRQ",
+      "quot": 10,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Unai Gomez",
+      "squadra": "Udinese",
+      "ruolo": "TRQ",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Karlstrom",
+      "squadra": "Udinese",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Piotrowski",
+      "squadra": "Udinese",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lieve aritmia cardiaca",
+        "dataInizio": "2026-09-07",
+        "giorniStimati": 50
+      }
+    },
+    {
+      "nome": "Miller L.",
+      "squadra": "Udinese",
+      "ruolo": "Med",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Chakvetadze",
+      "squadra": "Udinese",
+      "ruolo": "TRQ",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zarraga",
+      "squadra": "Udinese",
+      "ruolo": "Med",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Jovanovic",
+      "squadra": "Udinese",
+      "ruolo": "TRQ",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Basic",
+      "squadra": "Venezia",
+      "ruolo": "Med",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Busio",
+      "squadra": "Venezia",
+      "ruolo": "Med",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sohm",
+      "squadra": "Venezia",
+      "ruolo": "CC",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Perez K.",
+      "squadra": "Venezia",
+      "ruolo": "TRQ",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Helgason",
+      "squadra": "Venezia",
+      "ruolo": "TRQ",
+      "quot": 3,
+      "slot": 7,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Duncan",
+      "squadra": "Venezia",
+      "ruolo": "CC",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dagasso",
+      "squadra": "Venezia",
+      "ruolo": "CC",
+      "quot": 1,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fernandez T.",
+      "squadra": "Venezia",
+      "ruolo": "TRQ",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    }
+  ],
+  "attaccanti": [
+    {
+      "nome": "Krstovic",
+      "squadra": "Atalanta",
+      "ruolo": "P",
+      "quot": 19,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Scamacca",
+      "squadra": "Atalanta",
+      "ruolo": "P",
+      "quot": 18,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Raspadori",
+      "squadra": "Atalanta",
+      "ruolo": "SP",
+      "quot": 14,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Ketalaere",
+      "squadra": "Atalanta",
+      "ruolo": "SP",
+      "quot": 18,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Sulemana K.",
+      "squadra": "Atalanta",
+      "ruolo": "SP",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione collaterale mediale del ginocchio sinistro",
+        "dataInizio": "2026-08-08",
+        "giorniStimati": 60
+      }
+    },
+    {
+      "nome": "Piccoli",
+      "squadra": "Bologna",
+      "ruolo": "P",
+      "quot": 8,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dovbyk",
+      "squadra": "Bologna",
+      "ruolo": "P",
+      "quot": 15,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Enem",
+      "squadra": "Bologna",
+      "ruolo": "P",
+      "quot": 2,
+      "slot": 8,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Maldini",
+      "squadra": "Cagliari",
+      "ruolo": "SP",
+      "quot": 5,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mendy P.",
+      "squadra": "Cagliari",
+      "ruolo": "P",
+      "quot": 4,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Trepy",
+      "squadra": "Cagliari",
+      "ruolo": "P",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Infortunio in piscina (rientro da valutare)",
+        "dataInizio": "2026-08-16",
+        "giorniStimati": 31
+      }
+    },
+    {
+      "nome": "Kevin Carlos",
+      "squadra": "Cagliari",
+      "ruolo": "P",
+      "quot": 13,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Nzola",
+      "squadra": "Cagliari",
+      "ruolo": "P",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Douvikas",
+      "squadra": "Como",
+      "ruolo": "P",
+      "quot": 20,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Diao",
+      "squadra": "Como",
+      "ruolo": "W",
+      "quot": 11,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kean",
+      "squadra": "Como",
+      "ruolo": "P",
+      "quot": 25,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Beto",
+      "squadra": "Fiorentina",
+      "ruolo": "P",
+      "quot": 14,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pellegrino",
+      "squadra": "Fiorentina",
+      "ruolo": "P",
+      "quot": 15,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gnonto",
+      "squadra": "Fiorentina",
+      "ruolo": "SP",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ghedjemis",
+      "squadra": "Frosinone",
+      "ruolo": "AD",
+      "quot": 9,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Raimondo",
+      "squadra": "Frosinone",
+      "ruolo": "P",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kvernadze",
+      "squadra": "Frosinone",
+      "ruolo": "SP",
+      "quot": 4,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Birligea",
+      "squadra": "Frosinone",
+      "ruolo": "P",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bobcek",
+      "squadra": "Frosinone",
+      "ruolo": "P",
+      "quot": 9,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Robinho Jr",
+      "squadra": "Genoa",
+      "ruolo": "SP",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Havel",
+      "squadra": "Genoa",
+      "ruolo": "P",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Vitinha",
+      "squadra": "Genoa",
+      "ruolo": "SP",
+      "quot": 8,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Colombo",
+      "squadra": "Genoa",
+      "ruolo": "P",
+      "quot": 11,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Osmajic",
+      "squadra": "Genoa",
+      "ruolo": "P",
+      "quot": 8,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Esposito P.",
+      "squadra": "Inter",
+      "ruolo": "P",
+      "quot": 16,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bonny",
+      "squadra": "Inter",
+      "ruolo": "P",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lautaro",
+      "squadra": "Inter",
+      "ruolo": "P",
+      "quot": 35,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Thuram",
+      "squadra": "Inter",
+      "ruolo": "P",
+      "quot": 29,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Woltemade",
+      "squadra": "Juve",
+      "ruolo": "P",
+      "quot": 23,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ekhator",
+      "squadra": "Juve",
+      "ruolo": "SP",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Lesione medio grado del muscolo semitendinoso",
+        "dataInizio": "2026-09-09",
+        "giorniStimati": 50
+      }
+    },
+    {
+      "nome": "Milik",
+      "squadra": "Juve",
+      "ruolo": "P",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Boga",
+      "squadra": "Juve",
+      "ruolo": "SP",
+      "quot": 6,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Stiramento al flessore della coscia (Da valutare)",
+        "dataInizio": "2026-09-06",
+        "giorniStimati": 7
+      }
+    },
+    {
+      "nome": "Kolo Muani",
+      "squadra": "Juve",
+      "ruolo": "P",
+      "quot": 26,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Yildiz",
+      "squadra": "Juve",
+      "ruolo": "SP",
+      "quot": 23,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Frattura della base del 5° metatarso del piede sinistro",
+        "dataInizio": "2026-08-23",
+        "giorniStimati": 90
+      }
+    },
+    {
+      "nome": "Noslin",
+      "squadra": "Lazio",
+      "ruolo": "SP",
+      "quot": 6,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Pinamonti",
+      "squadra": "Lazio",
+      "ruolo": "P",
+      "quot": 13,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "N'Dri",
+      "squadra": "Lecce",
+      "ruolo": "W",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Geubbels",
+      "squadra": "Lecce",
+      "ruolo": "P",
+      "quot": 9,
+      "slot": 4,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Distorsione caviglia",
+        "dataInizio": "2026-08-31",
+        "giorniStimati": 15
+      }
+    },
+    {
+      "nome": "Stulic",
+      "squadra": "Lecce",
+      "ruolo": "P",
+      "quot": 7,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Fatah",
+      "squadra": "Lecce",
+      "ruolo": "W",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Camarda",
+      "squadra": "Milan",
+      "ruolo": "P",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ramos",
+      "squadra": "Milan",
+      "ruolo": "P",
+      "quot": 27,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zeballos",
+      "squadra": "Monza",
+      "ruolo": "SP",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Robinson J.",
+      "squadra": "Monza",
+      "ruolo": "SP",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Varela",
+      "squadra": "Monza",
+      "ruolo": "P",
+      "quot": 3,
+      "slot": 3,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Fastidio muscolare all'adduttore",
+        "dataInizio": "2026-08-30",
+        "giorniStimati": 40
+      }
+    },
+    {
+      "nome": "Cutrone",
+      "squadra": "Monza",
+      "ruolo": "P",
+      "quot": 9,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Mota",
+      "squadra": "Monza",
+      "ruolo": "SP",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Ngonge",
+      "squadra": "Monza",
+      "ruolo": "SP",
+      "quot": 5,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lang",
+      "squadra": "Napoli",
+      "ruolo": "AS",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Hojlund",
+      "squadra": "Napoli",
+      "ruolo": "P",
+      "quot": 28,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Santos A.",
+      "squadra": "Napoli",
+      "ruolo": "AS",
+      "quot": 14,
+      "slot": 1,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Da valutare",
+        "dataInizio": "2026-09-09",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Neres",
+      "squadra": "Napoli",
+      "ruolo": "AD",
+      "quot": 6,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Giovane",
+      "squadra": "Napoli",
+      "ruolo": "SP",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Ernia inguinale",
+        "dataInizio": "2026-09-03",
+        "giorniStimati": 30
+      }
+    },
+    {
+      "nome": "Lucca",
+      "squadra": "Napoli",
+      "ruolo": "P",
+      "quot": 3,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Tourè E.",
+      "squadra": "Parma",
+      "ruolo": "P",
+      "quot": 11,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Romero D.",
+      "squadra": "Parma",
+      "ruolo": "P",
+      "quot": 10,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Frigan",
+      "squadra": "Parma",
+      "ruolo": "SP",
+      "quot": 5,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Elphege",
+      "squadra": "Parma",
+      "ruolo": "P",
+      "quot": 3,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lontani",
+      "squadra": "Parma",
+      "ruolo": "SP",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "De Martis",
+      "squadra": "Parma",
+      "ruolo": "P",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Soulè",
+      "squadra": "Roma",
+      "ruolo": "AD",
+      "quot": 12,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Malen",
+      "squadra": "Roma",
+      "ruolo": "P",
+      "quot": 34,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Dybala",
+      "squadra": "Roma",
+      "ruolo": "SP",
+      "quot": 14,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Castro",
+      "squadra": "Roma",
+      "ruolo": "P",
+      "quot": 14,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Esposito S.",
+      "squadra": "Sassuolo",
+      "ruolo": "P",
+      "quot": 13,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Laurientè",
+      "squadra": "Sassuolo",
+      "ruolo": "AD",
+      "quot": 15,
+      "slot": 1,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Berardi",
+      "squadra": "Sassuolo",
+      "ruolo": "AS",
+      "quot": 18,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bowie",
+      "squadra": "Sassuolo",
+      "ruolo": "P",
+      "quot": 10,
+      "slot": 3,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Simeone",
+      "squadra": "Torino",
+      "ruolo": "P",
+      "quot": 15,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Adams C.",
+      "squadra": "Torino",
+      "ruolo": "SP",
+      "quot": 9,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Zapata D.",
+      "squadra": "Torino",
+      "ruolo": "P",
+      "quot": 7,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Kulenovic",
+      "squadra": "Torino",
+      "ruolo": "P",
+      "quot": 4,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Davis K.",
+      "squadra": "Udinese",
+      "ruolo": "P",
+      "quot": 19,
+      "slot": 2,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Gueye",
+      "squadra": "Udinese",
+      "ruolo": "P",
+      "quot": 4,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Bayo V.",
+      "squadra": "Udinese",
+      "ruolo": "P",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Adams A.",
+      "squadra": "Venezia",
+      "ruolo": "P",
+      "quot": 12,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Yeboah J.",
+      "squadra": "Venezia",
+      "ruolo": "SP",
+      "quot": 8,
+      "slot": 4,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Rrahmani Al.",
+      "squadra": "Venezia",
+      "ruolo": "P",
+      "quot": 8,
+      "slot": 5,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Adorante",
+      "squadra": "Venezia",
+      "ruolo": "P",
+      "quot": 5,
+      "slot": 5,
+      "commento": "",
+      "infortunio": {
+        "descrizione": "Problema alla schiena",
+        "dataInizio": "2026-07-25",
+        "giorniStimati": 75
+      }
+    },
+    {
+      "nome": "Lisman",
+      "squadra": "Venezia",
+      "ruolo": "SP",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    },
+    {
+      "nome": "Lauberbach",
+      "squadra": "Venezia",
+      "ruolo": "P",
+      "quot": 1,
+      "slot": 6,
+      "commento": "",
+      "infortunio": null
+    }
+  ]
+}

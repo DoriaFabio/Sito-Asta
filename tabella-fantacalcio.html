@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quotazioni Fantacalcio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Quotazioni Fantacalcio</h1>
+  </header>
+
+  <div class="controls">
+    <div class="tabs">
+      <button class="tab active" data-role="portieri">Portieri</button>
+      <button class="tab" data-role="difensori">Difensori</button>
+      <button class="tab" data-role="centrocampisti">Centrocampisti</button>
+      <button class="tab" data-role="attaccanti">Attaccanti</button>
+    </div>
+    <input class="search" id="search" type="text" placeholder="Cerca nome o squadra…">
+  </div>
+
+  <div class="count" id="count"></div>
+
+  <div id="portieri-panel" class="panel active"></div>
+  <div id="difensori-panel" class="panel"></div>
+  <div id="centrocampisti-panel" class="panel"></div>
+  <div id="attaccanti-panel" class="panel"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

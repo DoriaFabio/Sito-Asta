@@ -1,0 +1,300 @@
+  :root {
+    --ink: #14171c;
+    --paper: #f6f5f2;
+    --line: #dcd8d0;
+    --muted: #6b6f76;
+
+    --portieri: #d98e2b;
+    --portieri-bg: #fbf1de;
+    --difensori: #2f8f5b;
+    --difensori-bg: #e7f4ec;
+    --centrocampisti: #2a5fd9;
+    --centrocampisti-bg: #e8eefd;
+    --attaccanti: #c8324a;
+    --attaccanti-bg: #fbe9ec;
+
+    --injury: #d64545;
+    --injury-bg: #fdecec;
+    --tooltip-shadow: 0 12px 28px -8px rgba(20, 17, 12, 0.22), 0 2px 8px -2px rgba(20, 17, 12, 0.12);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+    padding: 32px 20px 60px;
+  }
+
+  .wrap { max-width: 980px; margin: 0 auto; }
+
+  header h1 {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0 0 4px;
+  }
+  header p {
+    margin: 0 0 24px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .tab {
+    border: 1px solid var(--line);
+    background: #fff;
+    padding: 8px 14px;
+    border-radius: 7px;
+    font-size: 13.5px;
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--muted);
+    transition: border-color .15s, color .15s;
+  }
+  .tab[data-role="portieri"].active { border-color: var(--portieri); color: var(--portieri); background: var(--portieri-bg); }
+  .tab[data-role="difensori"].active { border-color: var(--difensori); color: var(--difensori); background: var(--difensori-bg); }
+  .tab[data-role="centrocampisti"].active { border-color: var(--centrocampisti); color: var(--centrocampisti); background: var(--centrocampisti-bg); }
+  .tab[data-role="attaccanti"].active { border-color: var(--attaccanti); color: var(--attaccanti); background: var(--attaccanti-bg); }
+
+  .search {
+    margin-left: auto;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    padding: 8px 12px;
+    font-size: 13.5px;
+    min-width: 220px;
+    background: #fff;
+  }
+  .search:focus { outline: 2px solid var(--centrocampisti); outline-offset: -1px; }
+
+  .count {
+    color: var(--muted);
+    font-size: 12.5px;
+    margin-bottom: 8px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    /* niente overflow:hidden qui: taglierebbe anche i tooltip che sporgono dalla tabella */
+  }
+
+  /* angoli arrotondati ottenuti sulle celle d'angolo invece che con overflow:hidden sulla tabella */
+  thead tr:first-child th:first-child { border-top-left-radius: 8px; }
+  thead tr:first-child th:last-child { border-top-right-radius: 8px; }
+  tbody tr:last-child td:first-child { border-bottom-left-radius: 8px; }
+  tbody tr:last-child td:last-child { border-bottom-right-radius: 8px; }
+
+  thead th {
+    text-align: left;
+    font-size: 12.5px;
+    font-weight: 700;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--line);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th .arrow { opacity: 0.35; font-size: 10px; margin-left: 4px; }
+  thead th.sorted .arrow { opacity: 1; }
+
+  #portieri-panel thead th { background: var(--portieri-bg); color: var(--portieri); }
+  #difensori-panel thead th { background: var(--difensori-bg); color: var(--difensori); }
+  #centrocampisti-panel thead th { background: var(--centrocampisti-bg); color: var(--centrocampisti); }
+  #attaccanti-panel thead th { background: var(--attaccanti-bg); color: var(--attaccanti); }
+
+  tbody td {
+    padding: 8px 12px;
+    font-size: 13.5px;
+    border-bottom: 1px solid #eeece7;
+    font-variant-numeric: tabular-nums;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: #fafaf8; }
+
+  .quot { font-weight: 700; }
+
+  /* ---- STEMMA SQUADRA (badge con sigla) ---- */
+  .team-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 7px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    cursor: help;
+  }
+  .tt-team {
+    padding: 7px 11px;
+  }
+  .tt-team .tt-title { margin-bottom: 0; }
+
+  /* ---- NOME + INFORTUNIO ---- */
+  .player-cell {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+
+  .player-name.has-comment {
+    cursor: help;
+    border-bottom: 1.5px dotted var(--muted);
+  }
+
+  /* ancora di posizionamento per il tooltip custom */
+  .tt-anchor {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  /* pallino rosso con croce bianca (icona infortunio) */
+  .injury-dot {
+    position: relative;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: var(--injury);
+    box-shadow: 0 0 0 2px #fff, 0 1px 3px rgba(214, 69, 69, 0.4);
+    cursor: help;
+    flex-shrink: 0;
+  }
+  .injury-dot::before,
+  .injury-dot::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #fff;
+    border-radius: 1px;
+  }
+  .injury-dot::before { width: 7px; height: 1.6px; transform: translate(-50%, -50%); }
+  .injury-dot::after { width: 1.6px; height: 7px; transform: translate(-50%, -50%); }
+
+  /* ---- TOOLTIP CUSTOM (card chiara) ---- */
+  .tt {
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 10px);
+    transform: translateX(-50%) translateY(4px);
+    width: max-content;
+    max-width: 230px;
+    background: #fff;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    box-shadow: var(--tooltip-shadow);
+    padding: 11px 13px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity .15s ease, transform .15s ease;
+    z-index: 20;
+  }
+  .tt::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: #fff;
+    filter: drop-shadow(0 1px 0 var(--line));
+  }
+  .tt-anchor:hover .tt,
+  .tt-anchor:focus-within .tt {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+  }
+
+  .tt-title {
+    display: block;
+    font-weight: 700;
+    font-size: 12.5px;
+    color: var(--ink);
+    margin-bottom: 3px;
+  }
+  .tt-body {
+    display: block;
+    color: var(--muted);
+  }
+
+  .tt-injury .tt-title { color: var(--injury); }
+  .tt-pill {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 20px;
+    background: var(--injury-bg);
+    color: var(--injury);
+    margin-bottom: 6px;
+  }
+
+  /* barra di avanzamento del recupero */
+  .tt-bar-track {
+    display: block;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--line);
+    overflow: hidden;
+    margin-top: 8px;
+  }
+  .tt-bar-fill {
+    display: block;
+    height: 100%;
+    border-radius: 3px;
+    background: linear-gradient(90deg, #f0a0a0, var(--injury));
+  }
+  .tt-bar-caption {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 10.5px;
+    color: var(--muted);
+    margin-top: 5px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tt { transition: none; }
+  }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .empty {
+    padding: 30px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 13.5px;
+  }
