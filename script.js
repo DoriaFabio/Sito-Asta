@@ -170,10 +170,10 @@ function render() {
           if (c.key === "nome") {
             const hasComment = !!r.commento;
             const nameGroup = hasComment
-              ? `<span class="tt-anchor"><span class="player-name has-comment">${escapeHtml(value)}</span>${renderCommentTooltip(value, r.commento)}</span>`
+              ? `<span class="tt-anchor" tabindex="0"><span class="player-name has-comment">${escapeHtml(value)}</span>${renderCommentTooltip(value, r.commento)}</span>`
               : `<span class="player-name">${escapeHtml(value)}</span>`;
             const injuryGroup = r.infortunio
-              ? `<span class="tt-anchor">${renderInjuryDot(r.infortunio)}</span>`
+              ? `<span class="tt-anchor" tabindex="0">${renderInjuryDot(r.infortunio)}</span>`
               : "";
             return `<td class="nome"><span class="player-cell">${nameGroup}${injuryGroup}</span></td>`;
           }
